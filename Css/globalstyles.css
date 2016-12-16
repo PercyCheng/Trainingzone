@@ -1,0 +1,30 @@
+@charset "utf-8";
+/* CSS Document */
+#banner {
+	background-color: #556666;
+	text-align: center;
+}
+
+
+#nav_bar {
+	background-color: blue;
+	text-align: center;
+}
+
+
+#content {
+	text-align: justify;
+	font-size: 12px;
+}
+
+
+#footer {
+	text-align: center;
+	font-size: 9px;
+	font-style: italic;
+}
+
+
+body {
+	background-color: blueviolet
+}
